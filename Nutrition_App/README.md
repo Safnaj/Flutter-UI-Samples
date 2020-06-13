@@ -1,5 +1,7 @@
 # Nutrition_App
 
+## Screenshots
+
 
 ## Getting Started
 
