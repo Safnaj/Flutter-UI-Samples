@@ -2,7 +2,7 @@
 
 ## Screenshots
 <div>
-<img src="https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Nutrition_App/assets/Nutrition_UI.jpg" width="100" height="100"/>
+<img src="https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Nutrition_App/assets/Nutrition_UI.jpg" width="500" height="500"/>
 </div>
 
 ## Getting Started
