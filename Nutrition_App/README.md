@@ -1,7 +1,7 @@
 # Nutrition_App
 
 ## Screenshots
-
+![Logo](https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Nutrition_App/assets/Nutrition_UI.jpg)
 
 ## Getting Started
 
