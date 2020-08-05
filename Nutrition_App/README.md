@@ -1,7 +1,9 @@
 # Nutrition_App
 
 ## Screenshots
-![Logo](https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Nutrition_App/assets/Nutrition_UI.jpg){height=80px width=80px}
+<div>
+<img src="https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Nutrition_App/assets/Nutrition_UI.jpg" width="100" height="100"/>
+</div>
 
 ## Getting Started
 
