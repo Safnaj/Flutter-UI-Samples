@@ -1,12 +1,10 @@
 import 'package:Leather_Shop/Models/Product.dart';
 import 'package:Leather_Shop/Screens/details/components/add_to_cart.dart';
-import 'package:Leather_Shop/Screens/details/components/cart_counter.dart';
 import 'package:Leather_Shop/Screens/details/components/color_and_size.dart';
 import 'package:Leather_Shop/Screens/details/components/counter_with_fav_btn.dart';
 import 'package:Leather_Shop/Screens/details/components/description.dart';
 import 'package:Leather_Shop/constants.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'product_title_with_image.dart';
 
 class Body extends StatelessWidget {
