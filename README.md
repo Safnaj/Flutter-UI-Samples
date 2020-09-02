@@ -5,5 +5,5 @@ A Collection of Flutter Material User Interfaces
 <div>
 <img src="https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Nutrition_App/assets/Nutrition_UI.jpg" width="480" height="480"/>
 </div>
-<br/>
+
 ## [2. Leather_Shop](https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Nutrition_App)
