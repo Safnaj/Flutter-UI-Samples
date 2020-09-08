@@ -8,5 +8,3 @@ A Collection of Flutter Material User Interfaces
 
 ## [2. Leather_Shop](https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Leather_Shop)
 
-#Author
-[Ahamed Safnaj]
