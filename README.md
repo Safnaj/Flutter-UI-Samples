@@ -13,6 +13,6 @@ A Collection of Flutter Material User Interfaces
 
 ## [3. Furniture_App](https://github.com/adityathakurxd/Flutter-UI-Samples/tree/master/Furniture_App)
 <div>
-<img src="https://github.com/adityathakurxd/Flutter-UI-Samples/blob/master/Furniture_App/Furniture_App.png" width="480" height="480"/>
+<img src="" width="480" height="480"/>
 </div>
 
