@@ -1,7 +1,7 @@
-# profile_app
+```diff 
+@@ profile_app @@
+```
 
-A new Flutter project.
-
-## Getting Started
+A new Flutter App - 
 
 ![my profile card](profile_card.jpeg)
