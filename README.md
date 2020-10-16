@@ -18,7 +18,7 @@ A Collection of Flutter Material User Interfaces
 
 ## [4. Onboarding_App](https://github.com/hiashutoshsingh/Flutter-UI-Samples/tree/master/Onboarding_App)
 <div>
-<img src="Onboarding_App/o3.png" height="300em"/> <img src="Onboarding_App/o2.png" height="300em"/> <img src="Onboarding_App/o1.png" height="300em"/>
+<img src="Onboarding_App/o3.png" height="250em"/> <img src="Onboarding_App/o2.png" height="250em"/> <img src="Onboarding_App/o1.png" height="250em"/>
 
 
 
