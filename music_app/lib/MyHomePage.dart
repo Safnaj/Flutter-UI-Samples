@@ -17,13 +17,16 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       backgroundColor: Colors.deepPurpleAccent,
       appBar: AppBar(
+        // leading: new Icon(Icons.menu,color: Colors.yellow.shade500,),
+        iconTheme: new IconThemeData(color: Colors.yellow.shade500),
+
         backgroundColor: Colors.purple.shade400,
         actions: [
           IconButton(
             padding: EdgeInsets.all(10),
             icon: Icon(
               Icons.play_circle_fill,
-              color: Colors.white,
+              color: Colors.yellow.shade500,
               size: 30,
             ),
             onPressed: () {
@@ -34,7 +37,10 @@ class _MyHomePageState extends State<MyHomePage> {
             },
           )
         ],
-        title: Text(widget.title),
+        title: Text(
+          widget.title,
+          style: TextStyle(color: Colors.yellow.shade500),
+        ),
       ),
       body: Container(
           decoration: BoxDecoration(
