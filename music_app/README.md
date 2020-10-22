@@ -1,4 +1,4 @@
-# music_app
+# Music_App
 
 A new Flutter project.
 
