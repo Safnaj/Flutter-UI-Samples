@@ -23,6 +23,6 @@ A Collection of Flutter Material User Interfaces
 
 ## [5 . Music_App](https://github.com/Kavindu-Gayantha/Flutter-UI-Samples/tree/music-app)
 <div>
-<img src="https://github.com/Kavindu-Gayantha/Flutter-UI-Samples/blob/music-app/music_app/Music_App.png" width="480" height="480"/>
+<img src="https://github.com/Safnaj/Flutter-UI-Samples/raw/master/Music_App/Music_App.png" width="480" height="480"/>
 </div>
 
