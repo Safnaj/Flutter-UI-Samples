@@ -11,8 +11,8 @@ A Collection of Flutter Material User Interfaces
 <img src="https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Leather_Shop/assets/Leather_UI.jpg" width="480" height="480"/>
 </div>
 
-## [3. Travel_App](https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Travel_App)
+## [3. Travel_App](https://github.com/Dilshan97/Flutter-UI-Samples/raw/master/Travel_App)
 <div>
-<img src="https://github.com/Safnaj/Flutter-UI-Samples/blob/master/Travel_App/assets/travel_app_ui.png" width="480" height="480"/>
+<img src="https://github.com/Dilshan97/Flutter-UI-Samples/raw/master/Travel_App/assets/travel_app_ui.png" width="480" height="480"/>
 </div>
 
