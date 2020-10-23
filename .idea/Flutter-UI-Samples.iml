@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Leather_Shop/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Leather_Shop/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Nutrition_App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Nutrition_App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/music_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/music_app/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
