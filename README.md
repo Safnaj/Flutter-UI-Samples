@@ -26,3 +26,8 @@ A Collection of Flutter Material User Interfaces
 <img src="https://github.com/Safnaj/Flutter-UI-Samples/raw/master/Music_App/Music_App.png" width="480" height="480"/>
 </div>
 
+## [6. Travel_App](https://github.com/Dilshan97/Flutter-UI-Samples/raw/master/Travel_App)
+<div>
+<img src="https://github.com/Dilshan97/Flutter-UI-Samples/raw/master/Travel_App/assets/travel_app_ui.png" width="480" height="480"/>
+</div>
+
