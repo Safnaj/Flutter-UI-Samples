@@ -31,3 +31,10 @@ A Collection of Flutter Material User Interfaces
 <img src="https://github.com/Dilshan97/Flutter-UI-Samples/raw/master/Travel_App/assets/travel_app_ui.png" width="480" height="480"/>
 </div>
 
+## [7. MarketPlace](https://github.com/mk1107/Flutter-UI-Samples/tree/master/Marketplace)
+<div>
+<img src="https://user-images.githubusercontent.com/55909616/135842643-e97deba1-36fe-4081-a314-5685479b2b17.png" width="480" height="480"/>
+</div>
+
+
+
