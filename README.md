@@ -36,5 +36,10 @@ A Collection of Flutter Material User Interfaces
 <img src="https://user-images.githubusercontent.com/55909616/135842643-e97deba1-36fe-4081-a314-5685479b2b17.png" width="480" height="480"/>
 </div>
 
+## [8. Movies_App](https://github.com/sneha-meto/Flutter-UI-Samples/tree/master/movies_app)
+<div>
+<img src="https://github.com/sneha-meto/Flutter-UI-Samples/blob/master/movies_app/movies_ui.png" width="480" height="480"/>
+</div>
+
 
 
