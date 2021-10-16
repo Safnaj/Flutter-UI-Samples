@@ -3,7 +3,7 @@
 ### Intro ,Navigation Drawer & Settings Page
 
 On this Taylor Shop design , our focus is on shops which take order and then ships them.
-- Intro Page represents what the shop does namely ** stiching ,picking up, delivering**
+- Intro Page represents what the shop does namely **stiching ,picking up, delivering**
 - Nav Drawer shows little bit of profile info, and other buttons for navigation
 - Profile Page shows basically the setting profiles for changing presonal details
 - Dyanamic UI where design is incorporated with respect to smartphone size
