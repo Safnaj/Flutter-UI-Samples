@@ -41,5 +41,9 @@ A Collection of Flutter Material User Interfaces
 <img src="https://github.com/sneha-meto/Flutter-UI-Samples/blob/master/movies_app/movies_ui.png" width="480" height="480"/>
 </div>
 
+## [9. Taylor_App](https://github.com/nish2447/Flutter-UI-Samples/tree/master/taylor_shop)
+<div>
+<img src="https://github.com/nish2447/Flutter-UI-Samples/blob/master/taylor_shop/1t.jpeg" width="900" height="480"/>
+</div>
 
 
