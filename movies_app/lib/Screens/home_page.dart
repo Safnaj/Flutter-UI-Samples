@@ -106,28 +106,26 @@ class _HomePageState extends State<HomePage> {
                   height: 20,
                 ),
                 Container(
-                    child: Expanded(
-                      child: TextField(
-                        controller: searchEditingController,
-                        style: const TextStyle(color: Colors.white),
-                        decoration: InputDecoration(
-                          border: InputBorder.none,
-                          prefixIcon: const Icon(
-                            Icons.search,
-                            color: Colors.grey,
-                          ),
-                          suffixIcon: InkWell(
-                              onTap: () {
-                                //                      initiateSearch();
-                              },
-                              child: const Icon(
-                                Icons.tune,
-                                color: Colors.black,
-                              )),
-                          hintText: "Search for movies",
-                          hintStyle: const TextStyle(color: Colors.grey),
-                          contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
+                    child: TextField(
+                      controller: searchEditingController,
+                      style: const TextStyle(color: Colors.white),
+                      decoration: InputDecoration(
+                        border: InputBorder.none,
+                        prefixIcon: const Icon(
+                          Icons.search,
+                          color: Colors.grey,
                         ),
+                        suffixIcon: InkWell(
+                            onTap: () {
+                              //                      initiateSearch();
+                            },
+                            child: const Icon(
+                              Icons.tune,
+                              color: Colors.black,
+                            )),
+                        hintText: "Search for movies",
+                        hintStyle: const TextStyle(color: Colors.grey),
+                        contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
                       ),
                     ),
                     decoration: BoxDecoration(
