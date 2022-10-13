@@ -49,7 +49,7 @@ A Collection of Flutter Material User Interfaces
 <img src="https://play-lh.googleusercontent.com/NOIsbRlt_FOMbFkeLtRXc86bGsgiR16dEr76jIyQ9tHzjZK_7tSrZa6ricUWRdWUZzQ=w720-h310-rw" />
 </div>
 
-## [10. Movies_App](https://github.com/nga1hte/Flutter-UI-Samples/tree/master/ticketbook)
+## [10. Ticket Booking App](https://github.com/nga1hte/Flutter-UI-Samples/tree/master/ticketbook)
 <div>
 <img src="https://github.com/nga1hte/Flutter-UI-Samples/blob/master/ticketbook/ui_preview.png" width="480" height="480"/>
 </div>
