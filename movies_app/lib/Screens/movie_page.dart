@@ -9,6 +9,8 @@ final List<String> imgList = [
 ];
 
 class MoviePage extends StatefulWidget {
+  const MoviePage({Key? key}) : super(key: key);
+
   @override
   _MoviePageState createState() => _MoviePageState();
 }
@@ -20,7 +22,7 @@ class _MoviePageState extends State<MoviePage> {
             child: Column(
               children: [
                 ClipRRect(
-                  borderRadius: BorderRadius.all(Radius.circular(10.0)),
+                  borderRadius: const BorderRadius.all(Radius.circular(10.0)),
                   child: Image.asset(
                     item,
                     fit: BoxFit.cover,
@@ -28,7 +30,7 @@ class _MoviePageState extends State<MoviePage> {
                     width: 100,
                   ),
                 ),
-                Text("Actor Name")
+                const Text("Actor Name")
               ],
             ),
           ))
@@ -47,7 +49,7 @@ class _MoviePageState extends State<MoviePage> {
               fit: BoxFit.cover,
             ),
             Container(
-              padding: EdgeInsets.all(15),
+              padding: const EdgeInsets.all(15),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
@@ -60,18 +62,10 @@ class _MoviePageState extends State<MoviePage> {
                         padding: const EdgeInsets.fromLTRB(0, 20, 100, 40),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
+                          children: const [
                             Text('Free Guy', style: TextStyle(fontSize: 20)),
-                            Text('Comedy',
-                                style: TextStyle(
-                                    fontSize: 15,
-                                    height: 1.5,
-                                    color: Colors.black45)),
-                            Text('1hr 55min',
-                                style: TextStyle(
-                                    fontSize: 15,
-                                    height: 1.5,
-                                    color: Colors.black45)),
+                            Text('Comedy', style: TextStyle(fontSize: 15, height: 1.5, color: Colors.black45)),
+                            Text('1hr 55min', style: TextStyle(fontSize: 15, height: 1.5, color: Colors.black45)),
                             Text(
                               '7.3/10',
                               style: TextStyle(
@@ -84,16 +78,17 @@ class _MoviePageState extends State<MoviePage> {
                       ),
                     ],
                   ),
-                  Text(
-                      "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
-                      style: TextStyle(color: Colors.black45)),
-                  SizedBox(height: 20),
-                  Padding(
-                    padding: const EdgeInsets.symmetric(vertical: 8.0),
+                  const Text(
+                    "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+                    style: TextStyle(color: Colors.black45),
+                  ),
+                  const SizedBox(height: 20),
+                  const Padding(
+                    padding: EdgeInsets.symmetric(vertical: 8.0),
                     child: Text('Cast', style: TextStyle(fontSize: 20)),
                   ),
                   SizedBox(
-                    height: 150,
+                    height: MediaQuery.of(context).size.height * 0.2,
                     child: ListView(
                       scrollDirection: Axis.horizontal,
                       children: cast,
@@ -102,16 +97,14 @@ class _MoviePageState extends State<MoviePage> {
                   InkWell(
                     onTap: () {},
                     child: Container(
-                      padding: EdgeInsets.all(10),
+                      padding: const EdgeInsets.all(10),
                       width: double.infinity,
-                      child: Text(
+                      child: const Text(
                         "Book Tickets",
                         style: TextStyle(color: Colors.white, fontSize: 18),
                         textAlign: TextAlign.center,
                       ),
-                      decoration: BoxDecoration(
-                          color: Colors.black,
-                          borderRadius: BorderRadius.circular(10)),
+                      decoration: BoxDecoration(color: Colors.black, borderRadius: BorderRadius.circular(10)),
                     ),
                   ),
                 ],
@@ -123,7 +116,7 @@ class _MoviePageState extends State<MoviePage> {
           top: 150.0,
           left: 20.0,
           child: ClipRRect(
-              borderRadius: BorderRadius.all(Radius.circular(10.0)),
+              borderRadius: const BorderRadius.all(Radius.circular(10.0)),
               child: Image.asset(
                 'assets/images/poster5.jpeg',
                 height: 250,
