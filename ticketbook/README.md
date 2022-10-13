@@ -4,7 +4,7 @@ A ticket booking app UI template.
 
 ## Video Tutorial
 
-[youtube/dbestech] (https://www.youtube.com/watch?v=71AsYo2q_0Y&t=20692s)
+[youtube/dbestech](https://www.youtube.com/watch?v=71AsYo2q_0Y&t=20692s)
 
 ## App UI Design
 
