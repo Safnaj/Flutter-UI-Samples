@@ -9,7 +9,7 @@ A ticket booking app UI template.
 ## App UI Design
 
 <div>
-<img src="https://github.com/nga1hte/Flutter-UI-Samples/blob/master/ticketbook/ui_preview.png" width="480" height="480"/>
+<img src="https://github.com/nga1hte/Flutter-UI-Samples/blob/master/TicketBooking_App/ui_preview.png" width="480" height="480"/>
 </div>  
 
 ## Getting Started
