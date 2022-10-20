@@ -1,0 +1,4 @@
+#Thu Oct 20 18:19:34 IST 2022
+base.0=/Users/sanketh.bk/my_projects/haktoberfest/Flutter-UI-Samples/RealEstateUI/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
