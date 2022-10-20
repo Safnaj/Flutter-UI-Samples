@@ -64,3 +64,8 @@ A Collection of Flutter Material User Interfaces
 <div>
   <img src="https://user-images.githubusercontent.com/51091231/196954512-ce4be971-718d-4345-b323-3dca91ecc20b.jpg" width="680" />
 </div>
+
+## [12 . Chat App UI](https://github.com/Harshith1263/Flutter-UI-Samples/tree/master/Calculator_App)
+<div>
+  <img src="https://user-images.githubusercontent.com/51091231/196956900-7bc54548-b388-446b-91f7-4f9d8a2ce787.png" width="680" />
+</div>
