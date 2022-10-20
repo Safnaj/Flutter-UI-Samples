@@ -62,5 +62,5 @@ A Collection of Flutter Material User Interfaces
 
 ## [12 . Real Estate UI](https://github.com/Harshith1263/Flutter-UI-Samples/tree/master/Calculator_App)
 <div>
-  <img src="https://user-images.githubusercontent.com/51091231/196954512-ce4be971-718d-4345-b323-3dca91ecc20b.jpg" width="880" />
+  <img src="https://user-images.githubusercontent.com/51091231/196954512-ce4be971-718d-4345-b323-3dca91ecc20b.jpg" width="680" />
 </div>
