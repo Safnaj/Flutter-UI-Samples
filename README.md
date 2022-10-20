@@ -60,12 +60,26 @@ A Collection of Flutter Material User Interfaces
   <img src="https://github.com/Harshith1263/Flutter-UI-Samples/blob/master/Calculator_App/android/Assets/Screenshot_2022-10-19-18-43-14-81_6b64b728c9af2f9e6c96be88e17c21d2.jpg" width="480" height="1000"/>
 </div>
 
-## [12 . Real Estate UI](https://github.com/Harshith1263/Flutter-UI-Samples/tree/master/Calculator_App)
+## [12 . Real Estate UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/RealEstateUI)
 <div>
   <img src="https://user-images.githubusercontent.com/51091231/196954512-ce4be971-718d-4345-b323-3dca91ecc20b.jpg" width="680" />
 </div>
 
-## [12 . Chat App UI](https://github.com/Harshith1263/Flutter-UI-Samples/tree/master/Calculator_App)
+## [13 . Chat App UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/ChatAppUI)
 <div>
   <img src="https://user-images.githubusercontent.com/51091231/196956900-7bc54548-b388-446b-91f7-4f9d8a2ce787.png" width="680" />
 </div>
+
+## [14 . Alarm Clock UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/AlarmClockUI)
+<div style="display:flex;">
+  <img src="https://user-images.githubusercontent.com/51091231/196959942-e2bb5e79-16fd-4e48-a808-ae673e168dca.jpeg" width="300" />
+  <img src="https://user-images.githubusercontent.com/51091231/196959952-f27181b3-27ae-41a6-b7ff-d6a808a8a165.jpeg" width="300" />
+</div>
+
+
+## [15 . YouTube UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/YoutubeUI)
+<div>
+  <img src="https://user-images.githubusercontent.com/51091231/196962008-f67e4057-f246-4640-afd0-2d92706f46bc.jpeg" width="300" />
+</div>
+
+
