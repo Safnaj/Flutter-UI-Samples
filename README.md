@@ -59,3 +59,9 @@ A Collection of Flutter Material User Interfaces
 <img src="https://github.com/Harshith1263/Flutter-UI-Samples/blob/master/Calculator_App/android/Assets/Screenshot_2022-10-19-18-42-54-95_6b64b728c9af2f9e6c96be88e17c21d2.jpg" width="480" height="1000"/>
   <img src="https://github.com/Harshith1263/Flutter-UI-Samples/blob/master/Calculator_App/android/Assets/Screenshot_2022-10-19-18-43-14-81_6b64b728c9af2f9e6c96be88e17c21d2.jpg" width="480" height="1000"/>
 </div>
+
+## [14 . Alarm Clock UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/AlarmClockUI)
+<div style="display:flex;">
+  <img src="https://user-images.githubusercontent.com/51091231/196959942-e2bb5e79-16fd-4e48-a808-ae673e168dca.jpeg" width="300" />
+  <img src="https://user-images.githubusercontent.com/51091231/196959952-f27181b3-27ae-41a6-b7ff-d6a808a8a165.jpeg" width="300" />
+</div>
