@@ -65,6 +65,11 @@ A Collection of Flutter Material User Interfaces
   <img src="https://user-images.githubusercontent.com/51091231/196954512-ce4be971-718d-4345-b323-3dca91ecc20b.jpg" width="680" />
 </div>
 
+## [13 . Chat App UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/ChatAppUI)
+<div>
+  <img src="https://user-images.githubusercontent.com/51091231/196956900-7bc54548-b388-446b-91f7-4f9d8a2ce787.png" width="680" />
+</div>
+
 ## [14 . Alarm Clock UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/AlarmClockUI)
 <div style="display:flex;">
   <img src="https://user-images.githubusercontent.com/51091231/196959942-e2bb5e79-16fd-4e48-a808-ae673e168dca.jpeg" width="300" />
