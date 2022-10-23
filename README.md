@@ -70,6 +70,11 @@ A Collection of Flutter Material User Interfaces
   <img src="https://user-images.githubusercontent.com/51091231/196956900-7bc54548-b388-446b-91f7-4f9d8a2ce787.png" width="680" />
 </div>
 
+## [14 . Alarm Clock UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/AlarmClockUI)
+<div style="display:flex;">
+  <img src="https://user-images.githubusercontent.com/51091231/196959942-e2bb5e79-16fd-4e48-a808-ae673e168dca.jpeg" width="300" />
+  <img src="https://user-images.githubusercontent.com/51091231/196959952-f27181b3-27ae-41a6-b7ff-d6a808a8a165.jpeg" width="300" />
+</div>
 
 ## [15 . YouTube UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/YoutubeUI)
 <div>
