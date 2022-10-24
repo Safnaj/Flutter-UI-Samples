@@ -41,7 +41,6 @@ A Collection of Flutter Material User Interfaces
 <img src="https://github.com/sneha-meto/Flutter-UI-Samples/blob/master/movies_app/movies_ui.png" width="480" height="480"/>
 </div>
 
-
 ## [9. QuizDeck](https://github.com/akshajdevkv/Flutter-UI-Samples/tree/master/QuizDeck)
 <div>
 <img src="https://play-lh.googleusercontent.com/B8aefBu6k9HiWoE7ZuJzpesWzTnP5VowR77yBqHyldduSpuyKAuHMv518khOIztHmbU=w720-h310-rw" />
@@ -56,8 +55,8 @@ A Collection of Flutter Material User Interfaces
 
 ## [11 . Calculator_App](https://github.com/Harshith1263/Flutter-UI-Samples/tree/master/Calculator_App)
 <div>
-<img src="https://github.com/Harshith1263/Flutter-UI-Samples/blob/master/Calculator_App/android/Assets/Screenshot_2022-10-19-18-42-54-95_6b64b728c9af2f9e6c96be88e17c21d2.jpg" width="480" height="1000"/>
-  <img src="https://github.com/Harshith1263/Flutter-UI-Samples/blob/master/Calculator_App/android/Assets/Screenshot_2022-10-19-18-43-14-81_6b64b728c9af2f9e6c96be88e17c21d2.jpg" width="480" height="1000"/>
+<img src="https://github.com/Harshith1263/Flutter-UI-Samples/blob/master/Calculator_App/android/Assets/Screenshot_2022-10-19-18-42-54-95_6b64b728c9af2f9e6c96be88e17c21d2.jpg" height="600"/>
+  <img src="https://github.com/Harshith1263/Flutter-UI-Samples/blob/master/Calculator_App/android/Assets/Screenshot_2022-10-19-18-43-14-81_6b64b728c9af2f9e6c96be88e17c21d2.jpg" height="600"/>
 </div>
 
 ## [12 . Real Estate UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/RealEstateUI)
