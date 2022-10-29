@@ -80,7 +80,7 @@ A Collection of Flutter Material User Interfaces
   <img src="https://user-images.githubusercontent.com/51091231/196962008-f67e4057-f246-4640-afd0-2d92706f46bc.jpeg" width="300" />
 </div>
 
-## [16 . Wallet UI](https://github.com/SankethBK/Flutter-UI-Samples/tree/master/walletui)
+## [16 . Wallet UI](https://github.com/cyberianzed/Flutter-UI-Samples/blob/master/walletui)
 <div style="display:flex;">
   <img src="https://github.com/cyberianzed/Flutter-UI-Samples/blob/master/walletui/ss/1.png" width="300" />
 </div>
